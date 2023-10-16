@@ -34,10 +34,6 @@ Minha carreira começou no campo do suporte técnico, onde aprimorei minhas habi
 
 ## 📚 Projetos
 
-<!--
-[![Sport with AI - Monorepo](https://github-readme-stats.vercel.app/api/pin/?username=Furkan-Gulsen&repo=sport-with-ai-monorepo&theme=dark)](https://github.com/Furkan-Gulsen/sport-with-ai-monorepo)
-[![Recognize Handwritten Digits - A Simple Web App](https://github-readme-stats.vercel.app/api/pin/?username=Furkan-Gulsen&repo=Recognize-Handwritten-Digits&theme=dark)](https://github.com/Furkan-Gulsen/Recognize-Handwritten-Digits)
-[![SOCIAL DISTANCE DETECTION](https://github-readme-stats.vercel.app/api/pin/?username=Furkan-Gulsen&repo=social-distance-detection&theme=dark)](https://github.com/Furkan-Gulsen/social-distance-detection)
-[![Lane Detection With Image Processing](https://github-readme-stats.vercel.app/api/pin/?username=Furkan-Gulsen&repo=Lane-Detection-With-Image-Processing&theme=dark)](https://github.com/Furkan-Gulsen/Lane-Detection-With-Image-Processing)
-[![Blur-Detection-Web-App](https://github-readme-stats.vercel.app/api/pin/?username=Furkan-Gulsen&repo=Blur-Detection-Web-App&theme=dark)](https://github.com/Furkan-Gulsen/Blur-Detection-Web-App)
-[![Document Scanner Web App](https://github-readme-stats.vercel.app/api/pin/?username=Furkan-Gulsen&repo=Document-Scanner-Web-App&theme=dark)](https://github.com/Furkan-Gulsen/Document-Scanner-Web-App) --> 
+
+[![Site Android](https://github-readme-stats.vercel.app/api/pin/?username=rafaeldrj&repo=projeto-android&theme=dark)](https://rafaeldrj.github.io/projeto-android/)
+
