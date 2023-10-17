@@ -37,4 +37,5 @@ Minha carreira começou no campo do suporte técnico, onde aprimorei minhas habi
 
 [![Site Android](https://github-readme-stats.vercel.app/api/pin/?username=rafaeldrj&repo=projeto-android&theme=dark)](https://rafaeldrj.github.io/projeto-android/)
 [![Site Cordel](https://github-readme-stats.vercel.app/api/pin/?username=rafaeldrj&repo=projeto-cordel&theme=dark)](https://rafaeldrj.github.io/projeto-cordel/)
+[![Site Social](https://github-readme-stats.vercel.app/api/pin/?username=rafaeldrj&repo=projeto-social&theme=dark)](https://rafaeldrj.github.io/projeto-social/)
 
