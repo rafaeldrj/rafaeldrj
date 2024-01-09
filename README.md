@@ -16,7 +16,7 @@
 <img align="right" src="https://camo.githubusercontent.com/97d0c0c4209208d8ec9573c7e213e05872a9f59b703868647b559b77af601cc6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966" width='200'/> 
 
 Olá, me chamo **Rafael Gonçalves.**<br>
-Minha carreira começou no campo do suporte técnico, onde aprimorei minhas habilidades de resolução de problemas e comunicação com os clientes. Ao longo do tempo, meu interesse pela tecnologia se aprofundou, e percebi que queria ser mais do que um espectador do mundo digital. Decidi explorar a programação e rapidamente me apaixonei pela criação de soluções por meio do código. Estou embarcando na jornada de aprendizado para me tornar um Desenvolvedor Web, adquirindo habilidades em linguagens como HTML5, CSS3 e JavaScript, e comecei a explorar frameworks como TypeScript, React.js e NextJS. Estou absorvendo os conceitos fundamentais e explorando maneiras de criar aplicações web mais dinâmicas e interativas assim contribuindo ativamente para projetos de código aberto para compartilhar meu conhecimento e apoiar a comunidade de software.
+Da resolução de problemas em Análise de Suporte Técnico e Sistemas à criação de soluções inovadoras como Desenvolvedor Web, adquirir habilidades em JavaScript, TypeScript, React.js e Next.js posicionou-me como um facilitador de transformações digitais. Meu foco está em impulsionar a eficiência operacional e aprimorar a experiência do usuário. Com uma abordagem inovadora para a resolução de problemas e comunicação aprimorada, moldo minha jornada na criação de soluções tecnológicas robustas e orientadas para o usuário.
 
 ## 👨‍💻 Habilidades
 
