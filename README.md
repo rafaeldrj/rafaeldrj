@@ -20,7 +20,7 @@ Da resolução de problemas em Análise de Suporte Técnico e Sistemas à criaç
 
 ## 👨‍💻 Habilidades
 
--  **FrontEnd:**  JavaScript, TypeScript, React, NextJS (Estudando)
+-  **FrontEnd:**  JavaScript, TypeScript, React, NextJS 
 -  **BackEnd:**  NodeJS (Estudando)
 -  **DevOps:**  Amazon Web Services (AWS) (Estudando)
 -  **Design:** Responsivo e UI/UX (Estudando)
