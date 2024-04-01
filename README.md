@@ -13,7 +13,7 @@
 
 ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-<img align="right" src="https://camo.githubusercontent.com/97d0c0c4209208d8ec9573c7e213e05872a9f59b703868647b559b77af601cc6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966" width='200'/> 
+<img align="right" src="https://camo.githubusercontent.com/0eda36005abd9bf7e72584afc2f6ef1e808a357cb65a07fc2fe5036ba5268df7/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966" width='200'/> 
 
 Olá, me chamo **Rafael Gonçalves.**<br>
 Da resolução de problemas em Análise de Suporte Técnico e Sistemas à criação de soluções inovadoras como Desenvolvedor Web, adquirir habilidades em JavaScript, TypeScript, React.js e Next.js posicionou-me como um facilitador de transformações digitais. Meu foco está em impulsionar a eficiência operacional e aprimorar a experiência do usuário. Com uma abordagem inovadora para a resolução de problemas e comunicação aprimorada, moldo minha jornada na criação de soluções tecnológicas robustas e orientadas para o usuário.
