@@ -32,15 +32,19 @@ Sou desenvolvedor Frontend especializado em criar interfaces web responsivas, es
 -  **Metodologias Ágeis:** Conhecimento em Scrum e Kanban, com foco na entrega contínua e colaborativa.
 
 
-<!--<br> <p align="center" > <a href="#"><img alt="most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaeldrj&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=false&bg_color=0D1117" /></a></p>
+<!--
+<br> <p align="center" > <a href="#"><img alt="most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaeldrj&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=false&bg_color=0D1117" /></a></p>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rafaeldrj&show_icons=true&theme=radical" alt="Anurag's GitHub Stats">
-</div> -->
+</div> 
+-->
 
-## 📚 Projetos
+<!-- ## 📚 Projetos -->
 
 
-<!-- [![Site Android](https://github-readme-stats.vercel.app/api/pin/?username=rafaeldrj&repo=projeto-android&theme=dark)](https://rafaeldrj.github.io/projeto-android/)
+<!--
+[![Site Android](https://github-readme-stats.vercel.app/api/pin/?username=rafaeldrj&repo=projeto-android&theme=dark)](https://rafaeldrj.github.io/projeto-android/)
 [![Site Cordel](https://github-readme-stats.vercel.app/api/pin/?username=rafaeldrj&repo=projeto-cordel&theme=dark)](https://rafaeldrj.github.io/projeto-cordel/)
-[![Site Social](https://github-readme-stats.vercel.app/api/pin/?username=rafaeldrj&repo=projeto-social&theme=dark)](https://rafaeldrj.github.io/projeto-social/) -->
+[![Site Social](https://github-readme-stats.vercel.app/api/pin/?username=rafaeldrj&repo=projeto-social&theme=dark)](https://rafaeldrj.github.io/projeto-social/)
+-->
 
