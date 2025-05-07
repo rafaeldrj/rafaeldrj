@@ -16,7 +16,9 @@
 ![](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
 -->
 
+<!-- 
 <img align="right" src= "https://media3.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=6c09b9524xpleuhmelr64h5kcrgkww3vqzwh9lvr7l6dwbj9&ep=v1_gifs_search&rid=giphy.gif&ct=g" width='150' loading="eager"/>
+-->
 
 Olá, me chamo **Rafael Gonçalves!**<br>
 Sou desenvolvedor Frontend especializado em criar interfaces web responsivas, escaláveis e otimizadas para resultados. Tenho experiência em aprimorar performance de carregamento, aplicar boas práticas de SEO e desenvolver soluções que impulsionam conversões, sempre focando na experiência do usuário e nos objetivos de negócio.
